@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tik-Eskanor/react-project-9-menu/static/css/main.4c8d44fe.css",
+    "main.js": "/Tik-Eskanor/react-project-9-menu/static/js/main.1cc07e3a.js",
+    "index.html": "/Tik-Eskanor/react-project-9-menu/index.html",
+    "main.4c8d44fe.css.map": "/Tik-Eskanor/react-project-9-menu/static/css/main.4c8d44fe.css.map",
+    "main.1cc07e3a.js.map": "/Tik-Eskanor/react-project-9-menu/static/js/main.1cc07e3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c8d44fe.css",
+    "static/js/main.1cc07e3a.js"
+  ]
+}
